@@ -1,0 +1,24 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Real Pet
+
+### Title
+tour.name = REAL PET
+
+## Media
+
+### Subtitle
+panorama_1474E14B_05A6_2789_4167_E69C46AAFAEA.subtitle = Univet Clinica Veterinaria
+
+### Title
+panorama_0F79F0B0_05AA_E696_4193_3EF05031E7DB.label = REAL PET - Rio Preto
+panorama_1474E14B_05A6_2789_4167_E69C46AAFAEA.label = UNIVET
+
+## Action
+
+### URL
+LinkBehaviour_167F30D7_05DA_269A_4163_76899596D233.source = https://www.instagram.com/univet.clinicaveterinaria/
+LinkBehaviour_171EB1EF_05DA_2689_4190_66F432F11FB3.source = https://www.instagram.com/realpetrp/
