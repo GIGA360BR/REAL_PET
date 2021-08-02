@@ -16,6 +16,9 @@ panorama_1474E14B_05A6_2789_4167_E69C46AAFAEA.subtitle = Univet Clinica Veterina
 ### Title
 panorama_0F79F0B0_05AA_E696_4193_3EF05031E7DB.label = REAL PET - Rio Preto
 panorama_1474E14B_05A6_2789_4167_E69C46AAFAEA.label = UNIVET
+video_1102FC77_05A6_3D9A_4191_D56DCA46FAEA.label = Vídeo Little Plantet UNIVET
+video_11AAAE38_05AA_DD97_418A_5FCF9AAD5D98.label = Vídeo Little Plantet Real Pet
+video_16A3D557_05A7_EF99_4192_D4BD79DF8285.label = Vídeo Little Plantet Real Pet
 
 ## Action
 
